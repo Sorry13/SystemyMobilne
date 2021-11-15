@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Zad_Uno_Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="koty">Tygrys jest większy od lwa</string>
+    <string name="kosmos">Czarna dziura potrafi wciągnąć wszystko z wyjątkiem kwazara</string>
+    <string name="mnożenie">Czy 2300 x 1020 = 2 345 000</string>
+    <string name="zebra">Czy zebra należy do koniowatych</string>
+    <string name="myszki">Myszki komputerowe firmy apple są wygodne</string>
+
+    <string name="correct_answer">Poprawna odpowiedź!</string>
+    <string name="incorrect_answer">Błędna odpowiedź!</string>
+
+    <string name="answer_was_shown">Oszukujesz! Odpowiedź była już wyświetlona.</string>
+
+</resources>
