@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Zadanie6</string>
+
+    <string name="task_name_hint">Wprowadź nazwę zadania</string>
+    <string name="task_name_label">Nazwa</string>
+    <string name="task_details_label">Szczegóły</string>
+    <string name="task_done_label">Wykonane</string>
+
+    <string name="show_task_name">nazwa zadania</string>
+    <string name="show_date">data</string>
+
+    <string name="task_add_new">Nowe zadanie</string>
+    <string name="show_subtitle">Pokaż podtytuł</string>
+    <string name="hide_subtitle">Ukryj podtytuł</string>
+    <string name="subtitle_format">%1$d zadań</string>
+</resources>
