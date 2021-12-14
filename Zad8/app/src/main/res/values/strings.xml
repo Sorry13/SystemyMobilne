@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zad8</string>
+    <string name="sensors_count">Liczba czujników: %d</string>
+    <string name="missing_sensor">Brak czujnika</string>
+
+    <string name="Sensors_label">%f</string>
+</resources>
